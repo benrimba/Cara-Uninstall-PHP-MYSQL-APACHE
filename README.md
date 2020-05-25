@@ -1,9 +1,7 @@
 # Cara Uninstall PHP-MYSQL-APACHE di Ubuntu
 
 To uninstall PHP
-
-###### 
-```ubuntu sudo apt-get remove –purge php*
+```sudo apt-get remove –purge php*
 sudo apt-get purge php*
 sudo apt-get autoremove
 sudo apt-get autoclean
